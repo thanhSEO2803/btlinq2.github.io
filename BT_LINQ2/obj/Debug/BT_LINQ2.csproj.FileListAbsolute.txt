@@ -1,0 +1,7 @@
+D:\HK223-n3-k2\C#\BT_LINQ2\BT_LINQ2\bin\Debug\BT_LINQ2.exe.config
+D:\HK223-n3-k2\C#\BT_LINQ2\BT_LINQ2\bin\Debug\BT_LINQ2.exe
+D:\HK223-n3-k2\C#\BT_LINQ2\BT_LINQ2\bin\Debug\BT_LINQ2.pdb
+D:\HK223-n3-k2\C#\BT_LINQ2\BT_LINQ2\obj\Debug\BT_LINQ2.csproj.AssemblyReference.cache
+D:\HK223-n3-k2\C#\BT_LINQ2\BT_LINQ2\obj\Debug\BT_LINQ2.csproj.CoreCompileInputs.cache
+D:\HK223-n3-k2\C#\BT_LINQ2\BT_LINQ2\obj\Debug\BT_LINQ2.exe
+D:\HK223-n3-k2\C#\BT_LINQ2\BT_LINQ2\obj\Debug\BT_LINQ2.pdb
